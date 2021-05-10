@@ -50,5 +50,3 @@ export * from './components/EmojiPicker';
 export * from './components/Title';
 export * from './components/Panel';
 
-export * from './i18n/locales';
-export * from './i18n/Streami18n';
